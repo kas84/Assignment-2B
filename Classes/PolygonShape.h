@@ -25,5 +25,4 @@
 - (id)initWithNumberOfSides:(int)sides minimumNumberOfSides:(int)min maximumNumberOfSides:(int)max; 
 - (NSString *)description;
 - (void)dealloc;
-
 @end
